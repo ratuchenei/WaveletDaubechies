@@ -116,7 +116,7 @@ RESULTADOS:
    7.6394739   15.884519   9.3564729   6.7175144
 
 
---> D1: primeira detalhe
+--> D1: primeiro detalhe
  D1  = 
 
    0.7071068  -0.1894687  -0.6123724  -1.3194792
@@ -128,7 +128,7 @@ RESULTADOS:
    18.220671   10.037659
 
 
---> D2: segunda detalhe
+--> D2: segundo detalhe
  D2  = 
 
    0.0915064  -2.6895826
